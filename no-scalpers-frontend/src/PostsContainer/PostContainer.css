@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Istok+Web');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
+.post-list {
+    height: 500px;
+    overflow: scroll;
+    font-family: 'Work Sans', sans-serif;
+    margin: 0 10px;
+}
+
+.btn {
+    margin: 12px!important;
+    padding: 5px 20px!important;
+}
+
+p.card-text {
+    text-align: left;
+    color: black;
+}
+
+.post-container {
+    font-family: 'Istok Web', sans-serif;
+
+}
+
+.post-container h1,p{
+     
+    color: #02085A;
+
+}
+.post-container h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.welcome p {
+    font-size: 20px;
+}
+.welcome{
+    padding-top: 5rem;
+}
+
+.post-content {
+    padding-top: 3rem;
+}
+
+.post-list-container {
+    height: 600px;
+}
+
+.post-card {
+    background-color: rgba(255, 255, 255, 0.87) !important;
+    box-shadow: 0 0 8px 0 rgba(153, 153, 153, 0.858);;
+}

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Istok+Web');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
+
+.post-card {
+    padding:3em;
+    text-align: left;
+    color:black;
+}
+
+.post-card p {
+    color:black;
+}
+
+.create-post-modal h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.create-post-label{
+    font-family: 'Istok Web', sans-serif;
+}

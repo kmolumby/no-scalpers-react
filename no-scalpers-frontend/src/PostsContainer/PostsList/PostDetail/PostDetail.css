@@ -1,0 +1,11 @@
+.post-card{
+    margin: 30px 20px!important;
+}
+
+.card-title {
+    text-transform: uppercase!important;
+}
+
+.card {
+    background-color: blue !important;
+}
